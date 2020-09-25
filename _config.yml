@@ -21,13 +21,13 @@
 title: Random thoughts and other shenanigan
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Sometimes a good way to learn stuff is to try and explain it to others.
-  This blog is my outlet for trying to document stuff that I play with but
-  also maybe some random thoughts and shenanigans from time to time.
+  Sharing thoughts while also learning and documenting stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AtBoyDK
 github_username:  at-boy
+
+show_excerpts: true
 
 # Build settings
 theme: minima

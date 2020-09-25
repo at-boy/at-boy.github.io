@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2020-09-24 17:15:00 +0200
+author: at-boy
 ---
 Welcome to my first blog entry, well my first on this blog, I've had and been part of blogs many times but always got away from maintaining it a posting new stuff!
 
